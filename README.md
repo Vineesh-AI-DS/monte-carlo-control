@@ -82,11 +82,13 @@ def mc_control (env, gamma = 1.0,
 
 ### Output 1:
 
-![image](https://github.com/EASWAR17/monte-carlo-control/assets/94154683/90cdb02c-a016-4896-b27d-1510186b552b)
+![op1](https://github.com/Vineesh-AI-DS/monte-carlo-control/assets/93427254/4c5d5a19-b248-44c6-b77d-dffdcdc49234)
+
 
 ### Output 2:
 
-![image](https://github.com/EASWAR17/monte-carlo-control/assets/94154683/8c3cbc21-29cc-40f8-a7a6-682c58834f3d)
+![op2](https://github.com/Vineesh-AI-DS/monte-carlo-control/assets/93427254/7d684919-0450-4a80-9d8a-d90d8f59909a)
+
 
 ## RESULT:
 
